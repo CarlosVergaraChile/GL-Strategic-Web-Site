@@ -100,5 +100,19 @@ Para información detallada sobre cada persona, consultar `Maqueta-version-08.do
 - **Proyecto:** GL Strategic Website
 - **Fecha Inicio:** Diciembre 2025
 
+## 📚 Documentación
+
+Para información detallada sobre el desarrollo, arquitectura y proceso de creación del sitio web, consulta el archivo:
+
+**[DOCUMENTACION.md](./DOCUMENTACION.md)** - Documentación completa del proyecto con chat de Gemini
+
+Este archivo incluye:
+- Proceso de desarrollo iterativo
+- Herramientas y tecnologías utilizadas
+- Estructura del proyecto
+- Funcionalidades JavaScript
+- Conversaciones con Gemini AI
+- Guía de despliegue y mantenimiento
+
 **Última actualización:** 19 de diciembre 2025
 **Versión:** 1.0
